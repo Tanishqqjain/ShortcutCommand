@@ -2,7 +2,7 @@
 echo "1.Add Shortcut"
 echo "2.Remove Shortcut"
 echo "3.Exit"
-echo -n "Enter Choice"
+echo -n "Enter Choice : "
 read choice
 if [ $choice == 1 ]
 then
